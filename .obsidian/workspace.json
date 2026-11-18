@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "fc817200c72417d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fe12ee5c348e469",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ed426f9ac95a928",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "143ade464d655187",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fc9f151fb5aef37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "413c97cdec1ccc7c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b34fe57d68250035",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "58f79a700f52dc54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 405.5
+  },
+  "right": {
+    "id": "244b91c3fdb3e06b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8fcd37e2db2587b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "157689b9588b42e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mlyn.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for mlyn"
+            }
+          },
+          {
+            "id": "a1b913c68c049577",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mlyn.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from mlyn"
+            }
+          },
+          {
+            "id": "86e0965f5f8e5f6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a477612725153389",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4968be447e82f235",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mlyn.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of mlyn"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1ed426f9ac95a928",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Rozvrh.canvas",
+    "Pasted image 20261108193130.png",
+    "Diary/2025-12-07.md",
+    "Diary/2026-06-22.md",
+    "personal-dashboard/The most basic decription i can think of on the spot..md",
+    "personal-dashboard",
+    "Diary/Untitled.md",
+    "Untitled 1",
+    "Untitled/Pasted image 20260318215740.png",
+    "Untitled/mlyn.canvas",
+    "Diary",
+    "Untitled/Pasted image 20260324222413.png",
+    "Untitled/Pasted image 20260324222355.png",
+    "Untitled/Pasted image 20260324222344.png",
+    "Untitled/Pasted image 20260324222320.png",
+    "Untitled/Pasted image 20260324222306.png",
+    "Untitled.base",
+    "Welcome.md"
+  ]
+}
